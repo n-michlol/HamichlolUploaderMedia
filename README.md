@@ -1,6 +1,8 @@
 # Hamichlol Uploader
 A desktop application for uploading files to Hamichlol (המכלול). This tool provides a user-friendly interface for batch uploading images and files to www.hamichlol.org.il.
 
+Link to download the app: https://github.com/n-michlol/HamichlolUploaderMedia/releases/download/HamichlolUploader-App/HamichlolUploader.exe
+
 ## Description
 Hamichlol Uploader is a PyQt5-based application that streamlines the process of uploading multiple files to Hamichlol (המכלול). It features:
 
